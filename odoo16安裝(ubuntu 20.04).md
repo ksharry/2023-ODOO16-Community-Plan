@@ -10,6 +10,8 @@
 ## STEP2: 測試環境
 1. http://192.168.xxx.xxx:8069
 2. 設定workers
+3. 設定MasterPassword
+4. 重新啟動
 
 ## 錯誤排除訊息
 1. sudo apt-get install postgresql postgresql-server-dev-all -y
