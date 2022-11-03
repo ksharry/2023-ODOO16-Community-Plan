@@ -12,6 +12,25 @@
 2. 設定workers
 3. 設定MasterPassword
 4. 重新啟動
+5. 註冊網址
+
+## STEP3: 結論
+1. 建議使用ubuntu進行正式機的設置
+2. 要學習看一下腳本內容
+
+## 後續影片
+1. 後續影片為odoo16的各模組教學，會區分顧問與開發進行
+   + 顧問-ERP相關教學與建議使用第三方模組
+     + 如何安裝台灣模組與第三方模組
+     + 銷售
+     + 採購
+     + 庫存
+     + 製造
+     + 財務
+   + 開發-第二階段
+     + 如何使用win11安裝odoo16環境
+     + 如何使用pycharm環境進行開發
+     + 如何使用git進行共同開發
 
 ## 錯誤排除訊息
 1. sudo apt-get install postgresql postgresql-server-dev-all -y
