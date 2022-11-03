@@ -14,3 +14,6 @@
 ## 錯誤排除訊息
 1. sudo apt-get install postgresql postgresql-server-dev-all -y
 2. systemctl status postgresql.service
+3. sudo su - postgres -c "createuser -s  odoo" 2> /dev/null || true
+4. sudo -u postgres psql
+5. SELECT rolname FROM pg_roles;
