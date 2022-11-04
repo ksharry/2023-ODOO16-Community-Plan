@@ -35,12 +35,13 @@
        + 報表
      + 進階部分
        + 成本的設定
+       + 案例的分享
    + 開發環境-第二階段
      + 如何使用ubuntu安裝odoo16環境-[網址](https://github.com/ksharry/odoo-repository/blob/main/200.%20odoo16%E5%AE%89%E8%A3%9D(ubuntu%2020.04).md)
      + 如何使用win11安裝odoo16環境
      + 如何使用pycharm環境進行開發
      + 如何使用git進行共同開發
-   + 開發環境-第三階段
+   + 開發實作-第三階段
      + 開發實作新的模組
      + 繼承模組
      + 按鈕的新增
