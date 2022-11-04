@@ -28,6 +28,7 @@
      + 介紹ODOO的使用與特性-[網址](https://github.com/ksharry/odoo-repository/blob/main/100.ODOO%E4%BB%8B%E7%B4%B9.md)
      + 如何安裝台灣模組與第三方模組
      + 銷售、採購、庫存、製造、財務
+       + 基礎設定
        + 正向流程
        + 反向流程
        + 異常排除情況
