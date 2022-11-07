@@ -1,5 +1,10 @@
 ## ODOO介面與設定介紹-影片
-#### ODOO介面介紹
+#### ODOO介面介紹 
+1. tree view
+2. form view
+3. 智慧面板
+4. 其他-動作(報表、複製、歸檔)
+5. 匯入
 
 #### ODOO小猴子
 1. chrome apps -[網址](https://chrome.google.com/webstore/category/extensions?hl=zh-TW)
