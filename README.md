@@ -25,7 +25,7 @@
 ## 後續可能的影片
 1. 區分顧問與開發進行
    + 顧問-odoo16的ERP教學
-     + 介紹ODOO的使用與特性-[網址](https://github.com/ksharry/odoo-repository/blob/main/100.ODOO%E4%BB%8B%E7%B4%B9.md)
+     + 介紹ODOO的使用與特性-[網址](https://github.com/ksharry/odoo-repository/blob/main/100.%20ODOO%E4%BB%8B%E7%B4%B9.md)、影片
      + 如何安裝台灣模組與第三方模組
      + 銷售、採購、庫存、製造、財務
        + 基礎設定
@@ -37,7 +37,7 @@
        + 成本的設定
        + 案例的分享
    + 開發環境-第二階段
-     + 如何使用ubuntu安裝odoo16環境-[網址](https://github.com/ksharry/odoo-repository/blob/main/200.%20odoo16%E5%AE%89%E8%A3%9D(ubuntu%2020.04).md)
+     + 如何使用ubuntu安裝odoo16環境-[網址](https://github.com/ksharry/odoo-repository/blob/main/200.%20odoo16%E5%AE%89%E8%A3%9D(ubuntu%2020.04).md)、影片
      + 如何使用win11安裝odoo16環境
      + 如何使用pycharm環境進行開發
      + 如何使用git進行共同開發
