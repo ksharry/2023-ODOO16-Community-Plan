@@ -26,7 +26,7 @@
 
 #### ODOO設定介紹
 1. 感謝社群貢獻，已預設台灣設定模組。
-   + [台灣會計設定模組](https://apps.odoo.com/apps/modules/14.0/l10n_tw_standard_ifrss/)
+   + 台灣會計模組-[網址](https://apps.odoo.com/apps/modules/14.0/l10n_tw_standard_ifrss/)
    + WINSCP安裝(暫不需要)
 2. 各模組設定檢查
    + 公司:資訊維護
