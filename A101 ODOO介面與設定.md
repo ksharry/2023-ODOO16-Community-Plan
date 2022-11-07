@@ -21,6 +21,7 @@
    + sudo cp -a /home/dsc/git/* /odoo/custom/addons/.
    + sudo chown -R odoo: /odoo/custom/addons
    + sudo chmod 755 -R /odoo/custom/addons
+   + sudo service odoo-server stop/start
    + 如果上面有問題看一下ps aux | grep 'odoo'
 
 #### ODOO設定介紹
