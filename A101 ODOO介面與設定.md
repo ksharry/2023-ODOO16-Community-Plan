@@ -15,6 +15,19 @@
 3. 安裝使用，或在網址上加上(web?debug=1)
 4. 
 
+#### ODOO設定介紹
+1. 感謝社群貢獻，已預設台灣設定模組。
+   + 台灣會計模組-[網址](https://apps.odoo.com/apps/modules/14.0/l10n_tw_standard_ifrss/)
+   + WINSCP安裝(暫不需要)
+2. 各模組設定檢查
+   + 公司:資訊維護
+   + 庫存:開啟倉庫路線的設定
+   + 會計:群組/搜尋"會計"，加入使用者
+   + 第三方模組安裝
+   + 採購價差功能不見
+   + reconciliation widget問題
+3. 
+
 #### odoo第三方模組安裝
 1. 範例模組:odoomate推出的會計模組-[網址](https://apps.odoo.com/apps/modules/16.0/om_account_accountant/)
 2. 透過winscp上傳到使用者目錄/git
@@ -24,15 +37,6 @@
    + sudo service odoo-server stop/start
    + 如果上面有問題看一下ps aux | grep 'odoo'
 
-#### ODOO設定介紹
-1. 感謝社群貢獻，已預設台灣設定模組。
-   + 台灣會計模組-[網址](https://apps.odoo.com/apps/modules/14.0/l10n_tw_standard_ifrss/)
-   + WINSCP安裝(暫不需要)
-2. 各模組設定檢查
-   + 公司:資訊維護
-   + 庫存:開啟倉庫路線的設定
-   + 會計:群組/搜尋"會計"，加入使用者
-   + reconciliation widget問題
-3. 
+
 
 
