@@ -21,7 +21,7 @@
    + sudo cp -a /home/dsc/git/* /odoo/custom/addons/.
    + sudo chown -R odoo: /odoo/custom/addons
    + sudo chmod 755 -R /odoo/custom/addons
-   + 
+   + 如果上面有問題看一下ps aux | grep 'odoo'
 
 #### ODOO設定介紹
 1. 感謝社群貢獻，已預設台灣設定模組。
