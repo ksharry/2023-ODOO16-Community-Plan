@@ -15,6 +15,14 @@
 3. 安裝使用，或在網址上加上(web?debug=1)
 4. 
 
+#### odoo第三方模組安裝
+1. 範例模組:odoomate推出的會計模組-[網址](https://apps.odoo.com/apps/modules/16.0/om_account_accountant/)
+2. 透過winscp上傳到使用者目錄/git
+   + sudo cp -a /home/dsc/git/* /odoo/custom/addons/.
+   + sudo chown -R odoo: /odoo/custom/addons
+   + sudo chmod 755 -R /odoo/custom/addons
+   + 
+
 #### ODOO設定介紹
 1. 感謝社群貢獻，已預設台灣設定模組。
    + [台灣會計設定模組](https://apps.odoo.com/apps/modules/14.0/l10n_tw_standard_ifrss/)
