@@ -1,4 +1,4 @@
-## 課程介紹[影片](https://www.youtube.com/watch?v=mEKNlfYX2oc&t=267s)
+## 課程介紹 - [影片](https://www.youtube.com/watch?v=mEKNlfYX2oc&t=267s)
 #### 個人簡介
 1. 服務工程師出身，後續轉職顧問，較擅長財務領域
 2. odoo13開始接觸，分享期間所學。
