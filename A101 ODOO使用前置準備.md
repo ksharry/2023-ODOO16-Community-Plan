@@ -26,9 +26,8 @@
    + 第三方模組安裝-連結
 
 #### ODOO16問題紀錄
-1. 社群貢   
-   + 採購價差功能不見
-   + reconciliation widget問題
+1. 採購價差功能不見
+2. reconciliation widget問題
 
 
 
