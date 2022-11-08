@@ -1,4 +1,4 @@
-## odoo16安裝-影片
+## DBFILTER規劃應用實作-影片
 #### Xienci網站規劃
 1. consultant.xienci.com：顧問與技術課程規劃與經驗分享(主要)
 2. runbot.xienci.com：開放課程環境1(主要)
