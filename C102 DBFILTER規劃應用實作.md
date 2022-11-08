@@ -16,10 +16,11 @@
    + 相關說明網址參考:[網址1](https://richsoda.com/blog/odoo-1/post/hostname-14)，[網址2](https://trobz.com/blog/odoo-4/post/all-you-need-to-know-about-db-filtering-in-odoo-16)
 
 #### 使用情境
-1. 顧問區網站規劃(consultant.xienci.com)
+1. 顧問區網站規劃(runbot.xienci.com)
    + Xienci活動
    + ODOO文章
 2. 開放區域規劃(透明化)
    + 讓學員可以有環境使用
-   + 看得到顧問的設定
+   + 實際操作環境
+   + 及時查看設定與第三方模組
 
