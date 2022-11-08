@@ -1,9 +1,9 @@
 ## odoo16安裝-[影片](https://www.youtube.com/watch?v=Uskr6rm0P9Y&t=2s)
 #### Xienci網站規劃
-1. consultant.xienci.com：顧問課程規劃與經驗分享
-2. technical.xienci.com：技術課程規劃與經驗分享
-3. runbut1.xienci.com：開放課程環境1
-4. runbot2.xienci.com：開放課程環境2
+1. consultant.xienci.com：顧問課程規劃與經驗分享(主要)
+2. technical.xienci.com：技術課程規劃與經驗分享(預留)
+3. runbut1.xienci.com：開放課程環境1(主要)
+4. runbot2.xienci.com：開放課程環境2(預留)
 
 #### 執行步驟
 1. 建立四個資料庫
