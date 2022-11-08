@@ -1,4 +1,4 @@
-## ODOO介面與設定介紹-影片
+## ODOO使用前置準備-影片
 #### ODOO介面介紹 
 1. tree view
 2. form view
@@ -23,19 +23,14 @@
    + 公司:資訊維護
    + 庫存:開啟倉庫路線的設定
    + 會計:群組/搜尋"會計"，加入使用者
-   + 第三方模組安裝
+   + 第三方模組安裝-連結
+
+#### ODOO16問題紀錄
+1. 社群貢   
    + 採購價差功能不見
    + reconciliation widget問題
-3. 
 
-#### odoo第三方模組安裝
-1. 範例模組:odoomate推出的會計模組-[網址](https://apps.odoo.com/apps/modules/16.0/om_account_accountant/)
-2. 透過winscp上傳到使用者目錄/git
-   + sudo cp -a /home/dsc/git/* /odoo/custom/addons/.
-   + sudo chown -R odoo: /odoo/custom/addons
-   + sudo chmod 755 -R /odoo/custom/addons
-   + sudo service odoo-server stop/start
-   + 如果上面有問題看一下ps aux | grep 'odoo'
+
 
 
 
