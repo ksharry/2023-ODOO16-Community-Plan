@@ -28,6 +28,7 @@
 #### ODOO16問題紀錄
 1. 採購價差功能不見
 2. reconciliation widget問題
+3. 庫存預測異常
 
 
 
