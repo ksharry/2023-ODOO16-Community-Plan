@@ -11,7 +11,7 @@
 1. 基礎建設(資訊透明化)-讓資料容易維護與查看
 2. 將資料轉化成有用的資訊呈現-透過視覺化
 3. 
-
+![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/1301.png?raw=true)
 ## 製造業遇到什麼情況需要ERP-
 1. 各部門資訊收集不易導致
    + 庫存不清，不清楚實際庫存
