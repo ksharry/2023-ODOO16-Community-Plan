@@ -1,13 +1,14 @@
 ## odoo16安裝-影片
 #### Xienci網站規劃
 1. consultant.xienci.com：顧問與技術課程規劃與經驗分享(主要)
-3. runbot1.xienci.com：開放課程環境1(主要)
+2. runbot.xienci.com：開放課程環境1(主要)
 
 #### 執行步驟
-1. 建立四個資料庫
+1. 建立兩個資料庫
    + consultant
    + runbot
-2. 註冊子網域網址:
+2. pchome設定增加網域。
+3. 註冊子網域網址:
    + sudo certbot --nginx -d consultant.xienci.com --noninteractive --agree-tos --email harry.chang@dahsheng.com --redirect
    + sudo certbot --nginx -d runbot.xienci.com --noninteractive --agree-tos --email harry.chang@dahsheng.com --redirect
 3. sudo vi /etc/odoo-server.conf
