@@ -7,12 +7,15 @@
 1. 建立兩個資料庫
    + consultant
    + runbot
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/C1301.png?raw=true)
 2. pchome設定增加網域。
-3. 註冊子網域網址:
+3. 移除Cerbot跟Nginx
+4. 註冊子網域網址:
    + sudo certbot --nginx -d consultant.xienci.com -d runbot.xienci.com --noninteractive --agree-tos --email harry.chang@dahsheng.com --redirect
 3. sudo vi /etc/odoo-server.conf
    + 增加dbfilter = ^%d$
    + 相關說明網址參考:[網址1](https://richsoda.com/blog/odoo-1/post/hostname-14)，[網址2](https://trobz.com/blog/odoo-4/post/all-you-need-to-know-about-db-filtering-in-odoo-16)
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/C1302.png?raw=true)
 
 #### 移除cerbot憑證(指令參考)
 1. sudo certbot delete --cert-name xienci.com
