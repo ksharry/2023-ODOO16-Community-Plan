@@ -1,6 +1,6 @@
 ## 課程介紹與環境 - [影片](https://www.youtube.com/watch?v=mEKNlfYX2oc&t=267s)
-1. 顧問區(官網與教學)(consultant.xienci.com)
-2. 開放區(單據測試)(runbot.xienci.com)
+1. 顧問區(官網與教學)-[網址](consultant.xienci.com)
+2. 開放區(單據測試)-[網址](runbot.xienci.com)
 ## 個人簡介
 1. 服務工程師出身，後續轉職顧問，較擅長財務領域
 2. odoo13開始接觸，分享期間所學。
