@@ -1,6 +1,6 @@
 ## DBFILTER規劃應用實作-影片
 #### Xienci網站規劃
-1. consultant.xienci.com：課程教材
+1. consultant.xienci.com：官網與課程教材
 2. runbot.xienci.com：開放課程環境
 
 #### 執行步驟
