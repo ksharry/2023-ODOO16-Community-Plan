@@ -11,14 +11,6 @@
    + 歸檔
 3. 匯入、匯出功能
 
-#### ODOO開發者模式
-1. 設定->常規設定->最下面的開發著模式
-2. 網址web後面加上web?debug=1
-3. ODOO DEBUG(小猴子)    
-   + chrome apps -[網址](https://chrome.google.com/webstore/category/extensions?hl=zh-TW)
-   + 搜尋odoo debug
-   + 安裝使用，或在網址上加上(web?debug=1)
-
 #### ODOO設定介紹
 1. 社群貢獻，已預設台灣設定模組。
    + 台灣會計模組-[網址](https://apps.odoo.com/apps/modules/14.0/l10n_tw_standard_ifrss/)
@@ -34,7 +26,13 @@
    + 調整權限
      + 會計:群組/搜尋"會計"，加入使用者
 
-
+#### ODOO開發者模式
+1. 設定->常規設定->最下面的開發著模式
+2. 網址web後面加上web?debug=1
+3. ODOO DEBUG(小猴子)    
+   + chrome apps -[網址](https://chrome.google.com/webstore/category/extensions?hl=zh-TW)
+   + 搜尋odoo debug
+   + 安裝使用，或在網址上加上(web?debug=1)
 
 
 
