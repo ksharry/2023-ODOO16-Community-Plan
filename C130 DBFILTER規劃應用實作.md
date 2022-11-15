@@ -27,10 +27,10 @@
 4. sudo apt-get --purge remove nginx-common
 
 #### 使用情境
-1. 顧問區規劃(runbot.xienci.com)
+1. 顧問區規劃(consultant.xienci.com)
    + Xienci活動
    + ODOO教學文章
-2. 開放區規劃(透明化)
+2. 開放區規劃(runbot.xienci.com)
    + 讓學員可以有環境使用
    + 實際操作環境
    + 及時查看設定與第三方模組
