@@ -14,6 +14,9 @@
 #### 範例檔案下載
 1. 範例檔案 - [網址 ](https://docs.google.com/spreadsheets/d/1euHcCuM0auvq7NPkr8sUrtbaP8gYcub0/edit?usp=share_link&ouid=109550376904183765724&rtpof=true&sd=true)
 
+#### 訂單匯出
+1. 匯出位置：訂單->動作->導出
+
 #### 例外情況
 1. 關聯建議自動產生
    + 調整技術-序號的編碼
