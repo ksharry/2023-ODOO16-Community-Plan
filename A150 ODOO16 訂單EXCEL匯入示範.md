@@ -8,7 +8,7 @@
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/1501.png?raw=true)
 4. 測試->匯入
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/1504.png?raw=true)
-5. 察看結果
+5. 查看結果
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/1505.png?raw=true)
 
 #### 範例檔案下載
