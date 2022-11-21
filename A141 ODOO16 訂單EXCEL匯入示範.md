@@ -26,7 +26,7 @@
    + 排除方式:導出進行檢查
 4. 真不知原因
    + 排除方式:嘗試使用其他方式
-5. 匯入權要為管理者為設定
+5. 匯入權限：管理者為設定，人員使用要規畫調整。
 
 #### 其他連結參考
 1. 官方文件-[網址](https://www.odoo.com/documentation/16.0/applications/general/export_import_data.html)
