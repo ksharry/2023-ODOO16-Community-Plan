@@ -12,3 +12,5 @@
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/D1205.png?raw=true)
 7. ODOO設定-> SEO -> Google Analytics
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/D1206.png?raw=true)
+8. Google Analytics查看網站數據 - [網址](https://analytics.google.com/analytics/web/provision/#/provision)
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/D1207.png?raw=true)
