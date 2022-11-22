@@ -1,4 +1,4 @@
-## ODOO16 Google認證設定
+## ODOO16 Google認證登入設定
 1. odoo官網教學 - [網址](https://console.cloud.google.com/apis/dashboard?project=modular-shard-314005)
 2. Google API Dashboard - [網址](https://console.developers.google.com/)
 3. 新增專案
