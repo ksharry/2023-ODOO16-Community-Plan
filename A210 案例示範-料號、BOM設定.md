@@ -1,5 +1,5 @@
-## 案例課程-料號、BOM設定
-#### 虛擬案例設定
+## 案例-料號、BOM設定
+#### 虛擬示範設定
 1. 電動床架-製造業
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2101.png?raw=true)
 2. 電動床架(C001)
