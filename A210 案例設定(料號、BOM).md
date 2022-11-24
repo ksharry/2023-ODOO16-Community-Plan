@@ -19,7 +19,8 @@
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2106.png?raw=true)
 6. 其他說明:
    + 產品編碼-odoo16有管控不能重複
-   + 善用複製、編碼功能
+   + 善用複製功能
+   + 好的編碼帶你上天堂
    + 可設定供應商-後續採購可以示範功能
    + 路線部分設定原則
      + 原料-購買
