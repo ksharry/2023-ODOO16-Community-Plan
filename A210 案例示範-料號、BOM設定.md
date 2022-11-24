@@ -1,5 +1,5 @@
 ## 案例-料號、BOM設定
-#### 虛擬示範設定
+#### 虛擬案例的故事
 1. 環境網址 - https://runbot.xienci.com/
    + 帳號密碼:admin/admin
 2. 電動床架-製造業
