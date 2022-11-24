@@ -30,7 +30,7 @@
      + 原料-購買
      + 半成品與製成品-製造
 7. 料號與BOM表的關聯圖
-   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2104.png?raw=true)
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2109.png?raw=true)
    + mrp_bom
      + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2102.png?raw=true)
    + mrp_bom_line
