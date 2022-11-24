@@ -1,4 +1,4 @@
-## 案例設定(料號、BOM)
+## 案例課程-料號、BOM設定
 #### 虛擬案例設定
 1. 電動床架-製造業
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2101.png?raw=true)
