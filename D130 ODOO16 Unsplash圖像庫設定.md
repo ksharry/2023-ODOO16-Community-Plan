@@ -1,4 +1,4 @@
-## ODOO16 U 設定
+## ODOO16 Unsplash圖像庫 設定
 1. Unsplash - [網址](https://unsplash.com/)
 2. 新增帳戶
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/D1301.png?raw=true)
