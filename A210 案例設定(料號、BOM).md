@@ -8,6 +8,7 @@
    + 貼布床板-委外(B002) * 1  委外費:100
      + 床板(A002) * 4 購買價 1000
    + 電動馬達(A003) * 2  購買價 1000
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2108.png?raw=true)
 3. 產品類別設定
    + 製成品
    + 半成品-需手動新增科目
