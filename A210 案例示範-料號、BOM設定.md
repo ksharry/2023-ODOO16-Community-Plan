@@ -1,8 +1,8 @@
 ## 案例-料號、BOM設定
-#### 虛擬案例的故事
 1. 環境網址 - https://runbot.xienci.com/
    + 帳號密碼:admin/admin
-2. 電動床架-製造業
+#### 虛擬案例的故事
+1. 電動床架-製造業
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2101.png?raw=true)
 2. 電動床架(C001)
    + 床框-自製(B001) * 1 
