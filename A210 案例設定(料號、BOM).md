@@ -17,7 +17,7 @@
    + mrp_bom
      + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2102.png?raw=true)
    + mrp_bom_line
-     + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2103.png?raw=true)
+     + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2107.png?raw=true)
 5. 產品編碼-odoo16有管控不能重複
 6. 路線部分設定原則
    + 原料-購買
