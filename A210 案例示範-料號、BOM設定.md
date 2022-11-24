@@ -1,6 +1,6 @@
 ## 案例-料號、BOM設定
 #### 虛擬示範設定
-1. [環境](https://runbot.xienci.com/)- https://runbot.xienci.com/
+1. 環境網址 - https://runbot.xienci.com/
    + 帳號密碼:admin/admin
 2. 電動床架-製造業
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2101.png?raw=true)
