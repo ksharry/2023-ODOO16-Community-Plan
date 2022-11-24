@@ -20,7 +20,7 @@
 5. BOM表明細:
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2106.png?raw=true)
 6. 其他說明:
-   + 好的編碼帶你上天堂，產品編碼-odoo16有管控不能重複
+   + 好的編碼非常重要，產品編碼-odoo16有管控不能重複
    + 設定-製造-委外功能開啟
    + 善用複製功能
    + 可設定供應商-後續採購可以示範功能
