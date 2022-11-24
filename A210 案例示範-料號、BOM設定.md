@@ -1,6 +1,7 @@
 ## 案例-料號、BOM設定
 1. 環境網址 - https://runbot.xienci.com/
    + 帳號密碼:admin/admin
+2. 補充：成本基本上都不用設定，為了看到整體成本而維護，只要設定採購的價格即可。
 #### 虛擬案例的故事
 1. 電動床架-製造業
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2101.png?raw=true)
