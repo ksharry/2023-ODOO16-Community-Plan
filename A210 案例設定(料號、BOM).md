@@ -2,7 +2,7 @@
 #### 虛擬案例設定
 1. 電動床架-製造業
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2101.png?raw=true)
-2. 電動床架(C001)- 
+2. 電動床架(C001)- 查看成本
    + 床框-自製(B001) * 1 
      + 鐵架(A001) * 4 購買價 1000
    + 貼布床板-委外(B002) * 1  委外費:100
@@ -24,3 +24,7 @@
    + 半成品與製成品-製造
 7. 善用複製功能
 8. 可設定供應商-後續採購可以示範功能
+9. 產品明細:
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2105.png?raw=true)
+10. BOM表明細:
+    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2106.png?raw=true)
