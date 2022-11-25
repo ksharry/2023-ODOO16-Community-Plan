@@ -4,14 +4,16 @@
 #### 虛擬案例的故事
 1. 電動床架-製造業
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2101.png?raw=true)
-2. 電動床架(C001)
+2. 料號、BOM流程圖
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2110.png?raw=true)
+3. 電動床架(C001)
    + 床框-自製(B001) * 1 
      + 鐵架(A001) * 4 購買價 1000
    + 貼布床板-委外(B002) * 1  委外費:100
      + 床板(A002) * 4 購買價 1000
    + 電動馬達(A003) * 2  購買價 1000
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2108.png?raw=true)
-3. 產品類別設定
+4. 產品類別設定
    + 製成品
    + 半成品-需手動新增科目
    + 原料
@@ -20,7 +22,7 @@
 5. BOM表明細:
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2106.png?raw=true)
 6. 其他說明:
-   + 養成好的編碼，非常重要。
+   + 養成好的編碼非常重要。
    + 產品編碼-odoo16有管控不能重複
    + 設定-製造-委外功能開啟
    + 善用複製功能
