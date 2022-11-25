@@ -5,7 +5,7 @@
 #### 虛擬案例的故事
 1. 電動床架-製造業
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2101.png?raw=true)
-2. 料號、BOM流程圖
+2. 料號、BOM流程圖-[分享網址](https://gitmind.com/app/docs/fuxagydw)
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2110.png?raw=true)
 3. 電動床架(C001)
    + 床框-自製(B001) * 1 
