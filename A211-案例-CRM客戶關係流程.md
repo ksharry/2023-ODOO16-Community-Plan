@@ -7,7 +7,7 @@
      + 銷售漏斗頂端：目標客戶正試著了解使用電動家具的優點與商業合作模式。
      + 銷售漏斗中段：目標客戶正思考如何搭配現有家具做銷售。
      + 銷售漏斗底部：有機會進行場域試作，放DEMO產品正式銷售。
-     + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2111.png?raw=true)
+     + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2117.png?raw=true)
 2. CRM客戶關係管理流程圖-[分享網址](https://gitmind.com/app/docs/fxfai9az)
    + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A2112.png?raw=true)
 3. 階段設定
