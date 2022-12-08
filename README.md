@@ -84,4 +84,4 @@
    + 60萬預算(顧問與客製)
    + 顧問經驗與專案控管。
    + 更進階的系統功能
-   + 聯絡資訊:harry.chang@dahsheng.com
+   + 活動網址-[連結](https://consultant.xienci.com/blog/xienci-9/a000-odoo-2023-2)
