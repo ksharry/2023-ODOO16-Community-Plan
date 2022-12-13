@@ -1,0 +1,38 @@
+## ODOO16 製造委外流程
+#### 製造與拆解流程
+1. 常見的製造流程議題
+   + 領料流程
+   + 製程流程
+   + 業態適合使用ODOO嗎?
+     + 批次用量如何調整
+     + 已過帳單據如何調整
+     + 是否使用製程。
+     + 合併派工的需求
+     + 生產排程製作
+     + 是否含物控單位
+     + 製程如何收集工時。
+     + 人工製費如何分攤
+3. 兩步製造設定
+4. ODOO製造管理流程圖-
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A4111.png?raw=true)
+4. ODOO工作站/製程畫面
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A4115.png?raw=true)
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A4116.png?raw=true)
+4. ODOO製造訂單畫面
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A4112.png?raw=true)
+4. ODOOPC調撥單畫面
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A4113.png?raw=true)
+5. ODOO製令工單畫面
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A4114.png?raw=true)
+6. ODOO拆解畫面
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/4118.png?raw=true)
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/4117.png?raw=true)
+8. ODOO製造關聯
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A4119.png?raw=true)
+9. 其他情況:
+   + ODOO生產流程不符合公司現有流程
+   + 如果需要QC與MRP的需求計算，社群版是否有處理方式。
+10. 參與
+    + 公司屬於什麼業態，使用系統在此行業的特性為何?
+    + 製造現場數位化的程度為何，是否都為手工單據。
+    + 評估自己公司是落在工業幾點零。
