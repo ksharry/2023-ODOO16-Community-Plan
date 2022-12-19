@@ -1,0 +1,17 @@
+## ODOO16 庫存三部路線-製造
+#### 庫存路線
+1. 庫存倉庫-設定
+   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A5111.png?raw=true)
+
+2. 製造三部路線規則
+   + 路線圖
+     + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A5114.png?raw=true)
+   + 銷售面板：WH/庫存->WH/打包區域
+     + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A51141.png?raw=true)
+     + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A51142.png?raw=true)
+     + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A51143.png?raw=true)
+   + WH/打包區域->WH/出貨
+     + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A51144.png?raw=true)
+   + WH/出貨->夥伴／客戶
+     + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/A51145.png?raw=true)
+   + 可評估點:如果要領料就開兩步，如果需要印入庫單就開三步。
