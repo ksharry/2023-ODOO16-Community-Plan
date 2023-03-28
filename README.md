@@ -1,3 +1,6 @@
+## ODOO16社群版-ERP使用手冊(標準版)-[pdf下載](https://drive.google.com/file/d/1BK-W7hcTOHhNQykPY_NMaoqMED1ID3An/view?usp=share_link)
+
+
 ## 課程介紹與環境 - [影片](https://www.youtube.com/watch?v=mEKNlfYX2oc&t=267s)
 1. 顧問區(官網與教學)-[網址](https://consultant.xienci.com)
 2. 開放區(單據測試)-[網址](https://runbot.xienci.com)
