@@ -1,4 +1,4 @@
-## ODOO16社群版-ERP使用手冊(標準版)-[pdf下載](https://drive.google.com/file/d/1BK-W7hcTOHhNQykPY_NMaoqMED1ID3An/view?usp=share_link)
+## ODOO16社群版-ERP使用手冊(標準版)-[pdf下載](https://drive.google.com/file/d/1BK-W7hcTOHhNQykPY_NMaoqMED1ID3An/view?usp=share_link)/[線上閱讀](https://www.pubu.com.tw/ebook/346864)
 ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/99.png?raw=true)
 
 ## 課程介紹與環境 - [影片](https://www.youtube.com/watch?v=mEKNlfYX2oc&t=267s)
