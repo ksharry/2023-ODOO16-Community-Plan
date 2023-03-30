@@ -2,7 +2,7 @@
 ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/99.png?raw=true)
 
 ## 贊助支持
-此手冊為ODOO最新版本手冊，如讀者喜歡ODOO16社群版-ERP使用手冊(標準版)的內容，可以使用綠界進行小額的支持~
+此手冊為ODOO最新版本手冊，如讀者喜歡ODOO16社群版-ERP使用手冊(標準版)的內容，可以使用綠界進行小額的支持未來做持續的更新~
 
 贊助
 綠界科技ECPAY
