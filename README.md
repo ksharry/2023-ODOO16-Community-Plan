@@ -1,4 +1,4 @@
-## ODOO16社群版-ERP使用手冊(標準版)-[pdf下載](https://drive.google.com/file/d/1BK-W7hcTOHhNQykPY_NMaoqMED1ID3An/view?usp=share_link)/[線上閱讀PUBU](https://www.pubu.com.tw/ebook/346864)/[線上閱讀GOGOFINDER](https://www.gogofinder.com.tw/book/content.php?id=11130)
+## ODOO16社群版-ERP使用手冊(標準版)-[線上閱讀PUBU](https://www.pubu.com.tw/ebook/346864)/[線上閱讀GOGOFINDER](https://www.gogofinder.com.tw/book/content.php?id=11130)
 ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/99.png?raw=true)
 
 ## 贊助支持
