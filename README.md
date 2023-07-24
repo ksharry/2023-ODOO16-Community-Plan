@@ -4,7 +4,8 @@
 透過「分享、參與、行動」的方式，由自身出發加入ODOO的生態系。
 
 ## 課程教材與影片清單
-1. 課程為ODOO16社群版的功能教學影片
+1. [網址](https://www.youtube.com/channel/UCFn6F8NOS8MTDP4ZSb_ppUA)
+2. 課程為ODOO16社群版的功能教學影片
    + ODOO教學
      + A130 ODOO社群版模組介紹
      + A140 ODOO16-2021新版郵件設定
@@ -35,4 +36,4 @@
 
 ## ODOO16社群版-ERP使用手冊(標準版)
 線上閱讀GOGOFINDER-[網址](https://www.gogofinder.com.tw/book/content.php?id=11130)
-![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/99.png?raw=true)
+  + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/99.png?raw=true)
