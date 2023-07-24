@@ -1,10 +1,10 @@
 ## [官方網站]
-[網址](https://consultant.xienci.com/)
+官方網站-[網址](https://consultant.xienci.com/)
 ## 課程目的
 透過「分享、參與、行動」的方式，由自身出發加入ODOO的生態系。
 
 ## 課程教材與影片清單
-1. [網址](https://www.youtube.com/channel/UCFn6F8NOS8MTDP4ZSb_ppUA)
+1. 線上影音-[網址](https://www.youtube.com/channel/UCFn6F8NOS8MTDP4ZSb_ppUA)
 2. 課程為ODOO16社群版的功能教學影片
    + ODOO教學
      + A130 ODOO社群版模組介紹
@@ -29,7 +29,7 @@
      + D140 ODOO16 Google認證登入 設定
 
 ## ODOO ERP適合對象-初級
-線上系統教學
+線上系統教學-[影音](https://www.youtube.com/channel/UCFn6F8NOS8MTDP4ZSb_ppUA)
 
 ## ODOO ERP適合對象-中高級
 2023年ODOO數位化計畫-[網址](https://consultant.xienci.com/blog/xienci-9/a000-odoo-2023-2)
