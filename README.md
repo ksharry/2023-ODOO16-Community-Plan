@@ -1,4 +1,5 @@
-## [官方網站 ](https://consultant.xienci.com/)
+## [官方網站]
+[網址](https://consultant.xienci.com/)
 ## 課程目的
 透過「分享、參與、行動」的方式，由自身出發加入ODOO的生態系。
 
@@ -30,7 +31,8 @@
 線上系統教學
 
 ## ODOO ERP適合對象-中高級
-2023年ODOO數位化計畫-活動網址-[連結](https://consultant.xienci.com/blog/xienci-9/a000-odoo-2023-2)
+2023年ODOO數位化計畫-[網址](https://consultant.xienci.com/blog/xienci-9/a000-odoo-2023-2)
 
-## ODOO16社群版-ERP使用手冊(標準版)-[線上閱讀GOGOFINDER](https://www.gogofinder.com.tw/book/content.php?id=11130)
+## ODOO16社群版-ERP使用手冊(標準版)
+線上閱讀GOGOFINDER-[網址](https://www.gogofinder.com.tw/book/content.php?id=11130)
 ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/99.png?raw=true)
