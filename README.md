@@ -35,5 +35,5 @@
 報名網址-[網址](https://consultant.xienci.com/event/2003odoo-1/register)
 
 ## ODOO16社群版-ERP使用手冊(標準版)
-線上閱讀GOGOFINDER-[網址](https://www.gogofinder.com.tw/book/content.php?id=11130)
+線上閱讀-[網址](https://www.gogofinder.com.tw/book/content.php?id=11130)
   + ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/99.png?raw=true)
