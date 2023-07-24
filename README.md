@@ -48,9 +48,9 @@
        + D130 ODOO16 Unsplash圖像庫 設定
        + D140 ODOO16 Google認證登入 設定
 
-## ODOO ERP適合對象（小型）
+## ODOO ERP適合對象（初級）
 1. 線上系統教學
 
-## ODOO ERP適合對象（中大型）
+## ODOO ERP適合對象（中高級）
 1. 2023年ODOO數位化計畫
    + 活動網址-[連結](https://consultant.xienci.com/blog/xienci-9/a000-odoo-2023-2)
