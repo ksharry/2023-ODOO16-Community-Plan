@@ -1,14 +1,5 @@
-## ODOO16社群版-ERP使用手冊(標準版)-[線上閱讀PUBU](https://www.pubu.com.tw/ebook/346864)/[線上閱讀GOGOFINDER](https://www.gogofinder.com.tw/book/content.php?id=11130)
+## ODOO16社群版-ERP使用手冊(標準版)-[線上閱讀GOGOFINDER](https://www.gogofinder.com.tw/book/content.php?id=11130)
 ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/99.png?raw=true)
-
-## 贊助支持
-此數位計畫為ODOO最新版本的影片、手冊，如讀者喜歡ODOO16社群版-ERP使用手冊(標準版)的內容，可以使用綠界進行小額的支持未來做持續的更新~
-
-贊助
-綠界科技ECPAY
-
-![Alt text](https://payment.ecpay.com.tw/Upload/QRCode/202303/QRCode_75a0987d-653a-42b3-b634-801a0780dd39.png)
-
 
 ## 課程介紹與環境 - [影片](https://www.youtube.com/watch?v=mEKNlfYX2oc&t=267s)
 1. 顧問區(官網與教學)-[網址](https://consultant.xienci.com)
