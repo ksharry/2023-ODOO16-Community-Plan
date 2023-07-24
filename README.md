@@ -1,10 +1,7 @@
 ## ODOO16社群版-ERP使用手冊(標準版)-[線上閱讀GOGOFINDER](https://www.gogofinder.com.tw/book/content.php?id=11130)
 ![Alt text](https://github.com/ksharry/odoo-repository/blob/main/pic/99.png?raw=true)
 
-## 課程介紹與環境 - [影片](https://www.youtube.com/watch?v=mEKNlfYX2oc&t=267s)
-1. 顧問區(官網與教學)-[網址](https://consultant.xienci.com)
-2. 開放區(單據測試)-[網址](https://runbot.xienci.com)
-
+## [官方網站 ](https://consultant.xienci.com/)
 ## 課程目的
 透過「分享、參與、行動」的方式，由自身出發加入ODOO的生態系。
 
