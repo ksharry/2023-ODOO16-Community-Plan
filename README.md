@@ -28,8 +28,11 @@
      + D130 ODOO16 Unsplash圖像庫 設定
      + D140 ODOO16 Google認證登入 設定
 
-## ODOO 數位化計畫-初級
+## ODOO 數位化計畫-入門
 線上系統教學-[影音](https://www.youtube.com/channel/UCFn6F8NOS8MTDP4ZSb_ppUA)
+
+## ODOO 數位化計畫-標準
+線上購買課程-[網址](https://consultant.xienci.com/shop/w002-12#attr=)
 
 ## ODOO 數位化計畫-中高級
 報名網址-[網址](https://consultant.xienci.com/event/2003odoo-1/register)
