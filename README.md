@@ -34,7 +34,7 @@
 ## ODOO 數位化計畫-標準
 線上購買課程-[網址](https://consultant.xienci.com/shop/w002-12#attr=)
 
-## ODOO 數位化計畫-中高級
+## ODOO 數位化計畫-專家
 報名網址-[網址](https://consultant.xienci.com/event/2003odoo-1/register)
 
 ## ODOO16社群版-ERP使用手冊(標準版)
