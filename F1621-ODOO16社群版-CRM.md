@@ -12,7 +12,7 @@
     - 慾望階段 （Desire）
     - 行動階段 （Action）
         
-        !https://ithelp.ithome.com.tw/upload/images/20230921/20161788xnNqwcygO5.png
+        ![Alt text](https://ithelp.ithome.com.tw/upload/images/20230921/20161788xnNqwcygO5.png)
         
 - 2007年/Dave McClure/「AARRR模型」
     - 獲得階段（Acquisition）
@@ -27,36 +27,36 @@
 
 ## CRM流程
 
-!https://ithelp.ithome.com.tw/upload/images/20230915/201617885krWGqBh5z.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230915/201617885krWGqBh5z.png)
 
 ### 1. 客戶新增
 
-!https://ithelp.ithome.com.tw/upload/images/20230915/20161788ucjMAVVm8V.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230915/20161788ucjMAVVm8V.png)
 
 - 將與客戶拜訪的名片資料進行維護
 - 調查或詢問相關資訊，進行維護
 
 ### 2. 商機維護
 
-!https://ithelp.ithome.com.tw/upload/images/20230915/20161788CcRMOJ7dHH.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230915/20161788CcRMOJ7dHH.png)
 
 - 維護可能的商機資料，並將資料進行安排後續的拜訪
 
 ### 3. 行程安排
 
-!https://ithelp.ithome.com.tw/upload/images/20230915/20161788PmpVHYSHqq.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230915/20161788PmpVHYSHqq.png)
 
 - 將固定安排業務人員定期了解客戶情況，並記錄拜訪後的內容。
 
 ### 4. 商機贏得
 
-!https://ithelp.ithome.com.tw/upload/images/20230915/20161788KRSulj9SOP.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230915/20161788KRSulj9SOP.png)
 
 - 透過商機，新增報價單資料進行關聯紀錄
 
 ### 5. 商機失去
 
-!https://ithelp.ithome.com.tw/upload/images/20230915/20161788TprkLeZbQq.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230915/20161788TprkLeZbQq.png)
 
 ## 小結
 
