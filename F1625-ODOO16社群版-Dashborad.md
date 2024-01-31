@@ -4,15 +4,15 @@ ODOO15以前的儀表板功能都是透過報表的加入儀表板，才會有�
 
 不同模組的模板內容強調的數字不同，銷售模組的模板內容如下參考:
 
-!https://ithelp.ithome.com.tw/upload/images/20230919/20161788SVp9plNjPs.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230919/20161788SVp9plNjPs.png)
 
 ### 新的儀表板可以篩選與連動
 
-!https://ithelp.ithome.com.tw/upload/images/20230919/20161788XlfQ4fTCLp.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230919/20161788XlfQ4fTCLp.png)
 
 - 點選admin進行篩選
 
-!https://ithelp.ithome.com.tw/upload/images/20230919/20161788cQypk7XO7Z.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230919/20161788cQypk7XO7Z.png)
 
 - 系統僅呈現admin這個客戶的相關資料
 
@@ -22,7 +22,7 @@ ODOO15以前的儀表板功能都是透過報表的加入儀表板，才會有�
 
 答案是可以的，透過第三方模組的安裝，就可以跟企業版類似的功能可以進行設定:
 
-!https://ithelp.ithome.com.tw/upload/images/20230919/20161788CvzWPo2SOp.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230919/20161788CvzWPo2SOp.png)
 
 資料來源:
 
@@ -30,7 +30,7 @@ ODOO15以前的儀表板功能都是透過報表的加入儀表板，才會有�
 
 透過安裝這兩個模組，我們就可以透過樞紐分析表製作相關報表。
 
-!https://ithelp.ithome.com.tw/upload/images/20230919/20161788BaKaaNoYmC.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230919/20161788BaKaaNoYmC.png)
 
 資料來源:
 
@@ -40,23 +40,23 @@ ODOO15以前的儀表板功能都是透過報表的加入儀表板，才會有�
 
 ### 1. 透過CRM報表新增柱狀圖
 
-!https://ithelp.ithome.com.tw/upload/images/20230919/20161788ydHwG3kZRV.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230919/20161788ydHwG3kZRV.png)
 
 ### 2. 透過CRM報表新增樞紐表
 
-!https://ithelp.ithome.com.tw/upload/images/20230919/20161788SAYKkVvzvI.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230919/20161788SAYKkVvzvI.png)
 
 ### 3. 整理KPI數據
 
-!https://ithelp.ithome.com.tw/upload/images/20230919/20161788fWEevLgaeu.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230919/20161788fWEevLgaeu.png)
 
 ### 4. 調整版面
 
-!https://ithelp.ithome.com.tw/upload/images/20230919/20161788z39e6XZ6UI.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230919/20161788z39e6XZ6UI.png)
 
 ### 5. 查看結果
 
-!https://ithelp.ithome.com.tw/upload/images/20230919/20161788Ryeg4QCBEM.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230919/20161788Ryeg4QCBEM.png)
 
 ## 小結
 
