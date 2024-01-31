@@ -4,11 +4,11 @@
 
 ### 設定
 
-!https://ithelp.ithome.com.tw/upload/images/20230921/20161788dbeUupWOV2.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230921/20161788dbeUupWOV2.png)
 
 ### 1.應收憑單選擇增加折讓單
 
-!https://ithelp.ithome.com.tw/upload/images/20230921/2016178830LAGECBS4.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230921/2016178830LAGECBS4.png)
 
 先提供系統在應收帳款科目的分錄如下:
 
@@ -19,7 +19,7 @@
 
 ### 2.未開啟Storno accounting，折讓單的分錄
 
-!https://ithelp.ithome.com.tw/upload/images/20230921/2016178893pPGVjs59.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230921/2016178893pPGVjs59.png)
 
 未開啟Storno accounting，反向沖銷的分錄如下:
 
@@ -32,7 +32,7 @@
 
 ### 3.開啟Storno accounting，折讓單的分錄
 
-!https://ithelp.ithome.com.tw/upload/images/20230921/20161788vK0Nb37Kct.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230921/20161788vK0Nb37Kct.png)
 
 如果有開啟設定，會發現分錄如下:
 
@@ -49,7 +49,7 @@
 
 ### 設定
 
-!https://ithelp.ithome.com.tw/upload/images/20230921/20161788bgTyXFUkFt.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230921/20161788bgTyXFUkFt.png)
 
 ODOO的會計設定新增會計公司模式可以進行設定，就中文翻譯來說很清楚明瞭有三個功能
 
@@ -59,11 +59,11 @@ ODOO的會計設定新增會計公司模式可以進行設定，就中文翻譯�
 
 首先我們先看一下停用時的應收憑單內容:
 
-!https://ithelp.ithome.com.tw/upload/images/20230921/201617881WnFaRNOnc.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230921/201617881WnFaRNOnc.png)
 
 ### 設定後的應收憑單
 
-!https://ithelp.ithome.com.tw/upload/images/20230921/20161788jizTLhx7f3.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230921/20161788jizTLhx7f3.png)
 
 可以看出設定後的憑單在草稿狀態已經有應收憑單號碼，並且可以進行修改，且新增了一個發票總額，功能是核對發票是否與應收憑單金額相同，此外也預設的帳單日期，這樣的好處是使用者可以自行決定要採用哪一種模式。
 
