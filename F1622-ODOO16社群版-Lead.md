@@ -2,7 +2,7 @@
 
 昨天是透過商機去根據不同階段進行活動流程，今天介紹潛在商機管理，就個案公司的情況來說，可能是客戶發送過來的一個訊息、電話、網站詢問..等情況，甚至是業務人員主動聯繫相關可能的客戶，都可以記錄為潛在的商機。
 
-!https://ithelp.ithome.com.tw/upload/images/20230922/201617886flMeZAknz.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230922/201617886flMeZAknz.png)
 
 潛在商機是需要透過業務單位的驗證，才有機會進行為商機的一個過程，因此今天會介紹四個ODOO潛在商機功能說明：
 
@@ -15,11 +15,11 @@
 
 ### 開啟潛在商機功能
 
-!https://ithelp.ithome.com.tw/upload/images/20230922/20161788CEb7lphn9Q.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230922/20161788CEb7lphn9Q.png)
 
 ## 1.業務主動拜訪新增
 
-!https://ithelp.ithome.com.tw/upload/images/20230922/20161788dgngkgMYv1.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230922/20161788dgngkgMYv1.png)
 
 - ODOO16新功能可自動新增欄位來記錄重要訊息
 - 轉為商機/未成交的歷程記錄
@@ -30,15 +30,15 @@
 
 ### 網站聯繫我們設定
 
-!https://ithelp.ithome.com.tw/upload/images/20230918/20161788JaR6phwcVE.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230918/20161788JaR6phwcVE.png)
 
 ### 客戶填寫需求
 
-!https://ithelp.ithome.com.tw/upload/images/20230918/20161788EG8rWWCJtO.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230918/20161788EG8rWWCJtO.png)
 
 ### 後台潛在商機資料
 
-!https://ithelp.ithome.com.tw/upload/images/20230918/201617880JC6udsqFJ.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230918/201617880JC6udsqFJ.png)
 
 ## 3.討論-潛在商機
 
@@ -46,11 +46,11 @@
 
 ### 內部討論資訊
 
-!https://ithelp.ithome.com.tw/upload/images/20230918/20161788pcNBcuGUd8.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230918/20161788pcNBcuGUd8.png)
 
 ### 線索新增
 
-!https://ithelp.ithome.com.tw/upload/images/20230918/20161788T75fUUb2Br.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230918/20161788T75fUUb2Br.png)
 
 ## 4.Email轉潛在商機(ODOO13)
 
@@ -58,7 +58,7 @@ Email自動轉潛在商機目前在ODOO16沒有看到設定，ODOO13是可以透
 
 ### 設定Email
 
-!https://ithelp.ithome.com.tw/upload/images/20230918/20161788zmZ4FWOtNm.png
+![Alt text](https://ithelp.ithome.com.tw/upload/images/20230918/20161788zmZ4FWOtNm.png)
 
 ## 小結
 
