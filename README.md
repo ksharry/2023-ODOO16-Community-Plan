@@ -1,5 +1,6 @@
 ## [官方網站]
 官方網站-[網址](https://consultant.xienci.com/)
+
 ## 課程目的
 製作ODOO社群版的架構圖，說明案例與情境。
 
@@ -47,5 +48,5 @@
      + Z952-ODOO16 Unsplash圖像庫 設定
      + Z953-ODOO16 Google認證登入 設定
 
-## ODOO 數位化計畫
+## ODOO 支持開源專案
 報名網址-[網址](https://consultant.xienci.com/event/2003odoo-1/register)
