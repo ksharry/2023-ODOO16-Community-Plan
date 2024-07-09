@@ -44,6 +44,3 @@
      + Z951-ODOO16 Google Analytics 設定
      + Z952-ODOO16 Unsplash圖像庫 設定
      + Z953-ODOO16 Google認證登入 設定
-
-## ODOO 支持開源專案
-報名網址-[網址](https://consultant.xienci.com/event/2003odoo-1/register)
