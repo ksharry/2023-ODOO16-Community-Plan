@@ -1,6 +1,3 @@
-## [官方網站]
-官方網站-[網址](https://consultant.xienci.com/)
-
 ## 課程目的
 製作ODOO社群版的架構圖，說明案例與情境。
 
