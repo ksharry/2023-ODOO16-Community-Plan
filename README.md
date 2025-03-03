@@ -2,8 +2,7 @@
 製作ODOO社群版的架構圖，說明案例與情境。
 
 ## 課程教材與影片清單
-1. 線上影音-[網址](https://www.youtube.com/channel/UCFn6F8NOS8MTDP4ZSb_ppUA)
-2. 課程為ODOO16社群版的功能教學影片
+1. 課程為ODOO16社群版的功能教學
    + ODOO鐵人賽
      + F1601 ODOO16社群版-介紹
      + F1602 ODOO16社群版-安裝
